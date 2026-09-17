@@ -5,7 +5,6 @@ An end-to-end analytics project designed to analyze customer churn, identify ret
 The project demonstrates a complete data analytics workflow using Python, PostgreSQL, SQL, and Power BI.
 
 ---
-
 ## Project Architecture
 
 ```text
