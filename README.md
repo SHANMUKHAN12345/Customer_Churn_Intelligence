@@ -88,6 +88,28 @@ The solution transforms raw customer data into an interactive Power BI intellige
                 │ Dashboard & DAX KPI  │
                 └──────────────────────┘
 
+## Project Architecture
+
+```text
+Synthetic Dataset
+       │
+       ▼
+     Python
+Data Cleaning & EDA
+       │
+       ▼
+   PostgreSQL
+Relational Database
+       │
+       ▼
+   SQL Analytics
+Views & Risk Logic
+       │
+       ▼
+    Power BI
+Dashboard & DAX KPIs
+```
+
 ## Power BI Dashboard
 
 ### Executive Overview
