@@ -92,16 +92,16 @@ The solution transforms raw customer data into an interactive Power BI intellige
 
 ### Executive Overview
 
-![Executive Overview](documentation/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 ### Engagement & Support
 
-![Engagement & Support](documentation/engagement-support.png)
+![Engagement & Support](engagement-support.png)
 
 ### Retention & Risk
 
-![Retention & Risk](documentation/retention-risk.png)
+![Retention & Risk](retention-risk.png)
 
 ### Customer Detail
 
-![Customer Detail](documentation/customer-detail.png)
+![Customer Detail](customer-detail.png)
