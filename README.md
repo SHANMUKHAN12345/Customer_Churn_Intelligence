@@ -87,3 +87,21 @@ The solution transforms raw customer data into an interactive Power BI intellige
                 │      Power BI        │
                 │ Dashboard & DAX KPI  │
                 └──────────────────────┘
+
+## Power BI Dashboard
+
+### Executive Overview
+
+![Executive Overview](documentation/executive-overview.png)
+
+### Engagement & Support
+
+![Engagement & Support](documentation/engagement-support.png)
+
+### Retention & Risk
+
+![Retention & Risk](documentation/retention-risk.png)
+
+### Customer Detail
+
+![Customer Detail](documentation/customer-detail.png)
